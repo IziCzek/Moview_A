@@ -7,6 +7,7 @@ import cz.uhk.fim.pro2.moview.utils.ImageHandler;
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainFrame extends JFrame {
 
