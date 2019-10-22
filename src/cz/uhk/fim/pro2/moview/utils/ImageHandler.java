@@ -11,7 +11,7 @@ public class ImageHandler {
     public static Image getImageFromUrl(String imageUrl){
 
         Image image = null;
-        URL url = null;
+       
         try {
             URL url = new URL(imageUrl);
             image = ImageIO.read(url);
