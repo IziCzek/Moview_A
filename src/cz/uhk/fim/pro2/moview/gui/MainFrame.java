@@ -59,6 +59,8 @@ public class MainFrame extends JFrame {
                 ratings, MovieType.MOVIE
 
         );
+        
+           System.out.println(m1);
 
 
 
